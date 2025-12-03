@@ -34,8 +34,8 @@ GUI 없는 리눅스 터미널 환경에서 코드를 작성하고 디버깅하�
 | **00** | **GCC & GDB** | ✅ | [Summary](https://github.com/Mangjun/DataStructure/blob/main/docs/Chap00.md) | - |
 | **01** | **자료구조와 알고리즘** | ✅ | [Summary](https://github.com/Mangjun/DataStructure/blob/main/docs/Chap01.md) | - |
 | **02** | **순환** | ✅ | [Summary](https://github.com/Mangjun/DataStructure/blob/main/docs/Chap02.md) | [Source](https://github.com/Mangjun/DataStructure/tree/main/src/Chap02) |
-| **03** | **배열, 구조체, 포인터** | 🏃 | []() | []() |
-| **04** | **스택** | 🔒 | []() | []() |
+| **03** | **배열, 구조체, 포인터** | ✅ | [Summary](https://github.com/Mangjun/DataStructure/blob/main/docs/Chap03.md) | [Source](https://github.com/Mangjun/DataStructure/tree/main/src/Chap03) |
+| **04** | **스택** | 🏃 | []() | []() |
 | **05** | **큐** | 🔒 | []() | []() |
 | **06** | **연결 리스트** | 🔒 | []() | []() |
 | **07** | **트리** | 🔒 | []() | []() |
